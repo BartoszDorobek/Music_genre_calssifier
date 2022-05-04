@@ -1,0 +1,16 @@
+name: musicai
+
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - jupyterlab
+  - scikit-learn
+  - nb_conda_kernels
+  - ipykernel
+  - pip:
+    - tensorflow
+    - librosa
+    - xgboost
