@@ -1,4 +1,4 @@
-# Music_genre_recognition
+# Music genre classifier
 Part 1. using superwized machine learning models.<br />
 
 Cross validation results:
